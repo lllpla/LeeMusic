@@ -1,0 +1,16 @@
+f:\mydata\documents\visual studio 2015\Projects\LeeMusic\LeeMusic\bin\Debug\LeeMusic.exe.config
+f:\mydata\documents\visual studio 2015\Projects\LeeMusic\LeeMusic\bin\Debug\LeeMusic.exe
+f:\mydata\documents\visual studio 2015\Projects\LeeMusic\LeeMusic\bin\Debug\LeeMusic.pdb
+f:\mydata\documents\visual studio 2015\Projects\LeeMusic\LeeMusic\obj\Debug\LeeMusic.csprojResolveAssemblyReference.cache
+f:\mydata\documents\visual studio 2015\Projects\LeeMusic\LeeMusic\obj\Debug\MainWindow.g.cs
+f:\mydata\documents\visual studio 2015\Projects\LeeMusic\LeeMusic\obj\Debug\App.g.cs
+f:\mydata\documents\visual studio 2015\Projects\LeeMusic\LeeMusic\obj\Debug\LeeMusic_MarkupCompile.cache
+f:\mydata\documents\visual studio 2015\Projects\LeeMusic\LeeMusic\obj\Debug\LeeMusic_MarkupCompile.lref
+f:\mydata\documents\visual studio 2015\Projects\LeeMusic\LeeMusic\obj\Debug\MainWindow.baml
+f:\mydata\documents\visual studio 2015\Projects\LeeMusic\LeeMusic\obj\Debug\LeeMusic.g.resources
+f:\mydata\documents\visual studio 2015\Projects\LeeMusic\LeeMusic\obj\Debug\LeeMusic.Properties.Resources.resources
+f:\mydata\documents\visual studio 2015\Projects\LeeMusic\LeeMusic\obj\Debug\LeeMusic.csproj.GenerateResource.Cache
+f:\mydata\documents\visual studio 2015\Projects\LeeMusic\LeeMusic\obj\Debug\LeeMusic.exe
+f:\mydata\documents\visual studio 2015\Projects\LeeMusic\LeeMusic\obj\Debug\LeeMusic.pdb
+f:\mydata\documents\visual studio 2015\Projects\LeeMusic\LeeMusic\obj\Debug\playList.g.cs
+f:\mydata\documents\visual studio 2015\Projects\LeeMusic\LeeMusic\obj\Debug\playList.baml
